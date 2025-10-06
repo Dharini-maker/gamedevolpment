@@ -51,3 +51,11 @@
 
 
 ## OUTPUT:
+
+<img width="1587" height="2245" alt="Poster - Event" src="https://github.com/user-attachments/assets/1e7bed7e-7d8c-4730-8370-34d255c40d0a" />
+
+
+
+## RESULT:
+
+ Thus the image was edited using the editing software and the output was verified.
